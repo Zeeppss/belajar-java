@@ -1,6 +1,6 @@
 package dev.varaday.belajarjava.classes;
 
-/* Enum adalah "kelas" khusus yang mewakili sekelompok konstanta (variabel yang tidak dapat diubah, seperti variabel akhir).
+/* Enum adalah kelas khusus yang mewakili sekelompok konstanta (variabel yang tidak dapat diubah, seperti variabel akhir).
 Untuk membuat enum, gunakan kata kunci enum (bukan class atau interface),
 dan pisahkan konstanta dengan koma. Perhatikan bahwa mereka harus dalam huruf besar:
 
