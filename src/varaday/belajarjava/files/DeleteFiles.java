@@ -1,7 +1,6 @@
 package varaday.belajarjava.files;
 
 /* Menghapus File
-
 Untuk menghapus file di Java, gunakan metode delete():
  */
 
@@ -19,8 +18,7 @@ class MenghapusFile {
 }
 
 /* Menghapus Folder
-
-Anda juga dapat menghapus folder. Namun, harus kosong:
+Anda juga dapat menghapus folder, Namun, harus kosong:
  */
 
 class MenghapusFolder {
