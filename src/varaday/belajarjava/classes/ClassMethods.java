@@ -31,7 +31,7 @@ class ClassMethods2 {
     // Main method & Metode utama
     public static void main(String[] args) {
         myStaticMethod(); // Panggil Static method & Metode statis
-        // myPublicMethod(); Ini akan mengkompilasi kesalahan
+                         // myPublicMethod(); Ini akan mengkompilasi kesalahan
 
         ClassMethods2 myObj = new ClassMethods2();
         myPublicMethod();
